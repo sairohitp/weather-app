@@ -2,8 +2,6 @@
 
 A simple weather app built using HTML, CSS, and JavaScript that utilizes the OpenWeatherMap API to retrieve accurate weather information.
 
-![App Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [Features](#features)
