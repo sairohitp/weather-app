@@ -1,6 +1,7 @@
 * {
     font-family: 'Inter', sans-serif;
     box-sizing: border-box;
+    margin: 0px;
 }
 
 body {
@@ -49,7 +50,7 @@ body {
 }
 
 .weather-icon {
-    width: 170px;
+    width: 200px;
     margin-top: 30px;
 }
 
