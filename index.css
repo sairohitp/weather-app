@@ -56,6 +56,15 @@ body {
     width: 60px;
     height: 60px;
     cursor: pointer;
+    transition: all 0.15s ease-in-out;
+}
+
+
+button:hover {
+    color: #ffffff;
+    background-color: #29434e;
+    cursor: pointer;
+    transition: all 0.15s ease-in;
 }
 
 .weather-icon {
