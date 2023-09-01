@@ -102,11 +102,12 @@ button:hover {
     font-size: 50px;
 }
 
-.col > div > p {
+.col>div>p {
     margin: 5px 0px;
 }
 
-.humidity, .wind {
+.humidity,
+.wind {
     font-size: 28px;
     font-weight: 600;
 }
@@ -140,44 +141,46 @@ footer {
     margin: 0px auto 10px auto;
     font-weight: 500;
     font-size: 0;
-  }
-  
-  /* unvisited link */
-  a:link {
+}
+
+/* unvisited link */
+a:link {
     color: black;
-  }
-  
-  /* visited link */
-  a:visited {
+}
+
+/* visited link */
+a:visited {
     color: black;
-  }
-  
-  /* mouse over link */
-  a:hover {
+}
+
+/* mouse over link */
+a:hover {
     color: blue;
-  }
-  
-  /* selected link */
-  a:active {
+}
+
+/* selected link */
+a:active {
     color: blue;
-  }
-  
-  a:link {
+}
+
+a:link {
     text-decoration: none;
-  }
-  
-  a:visited {
+}
+
+a:visited {
     text-decoration: none;
-  }
-  
-  a:hover {
+}
+
+a:hover {
     text-decoration: none;
     cursor: pointer;
-  }
-  
-  a:active {
+}
+
+a:active {
     text-decoration: none;
-  }/*# sourceMappingURL=index.css.map */
+}
+
+/*# sourceMappingURL=index.css.map */
 
 /* material icon styles */
 
